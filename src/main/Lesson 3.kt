@@ -1,4 +1,4 @@
-package com.maestro.kotlincourse.lesson3
+package com.spkdv.kotlincourse.lesson3
 
 import java.time.LocalDate
 
